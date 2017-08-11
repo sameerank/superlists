@@ -1,6 +1,5 @@
 from selenium import webdriver
 import unittest
-from pprint import pprint
 
 class NewVisitorTest(unittest.TestCase):
 
